@@ -1,2 +1,3 @@
-# project0
-My first project. A basic website that has pokemon information.
+# Project 0
+
+Web Programming with Python and JavaScript
